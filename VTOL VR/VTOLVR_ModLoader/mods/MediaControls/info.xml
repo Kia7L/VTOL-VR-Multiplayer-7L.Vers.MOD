@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<Mod xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <name>Media Controls</name>
-  <description>Links MP3 stream buttons with external media player. Spotify, Itunes,Windows Media Player etc</description>
-</Mod>

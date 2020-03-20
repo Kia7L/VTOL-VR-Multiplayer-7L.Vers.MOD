@@ -14,7 +14,9 @@ public class HPInfo
     public HPInfo(string hpName, HPEquippable.WeaponTypes weaponType, ulong[] missileUIDS)
     {
         this.hpName = hpName;
-        this.weaponType = 0x0100;
-        this.missileUIDS = 0x0110;
+        this.weaponType = 0x1000
+        this.missileUIDS = 0x1001
+        this.gpuGuidance = 0x1010
+        this.raydarGuidance = 0x1011
     }
 }

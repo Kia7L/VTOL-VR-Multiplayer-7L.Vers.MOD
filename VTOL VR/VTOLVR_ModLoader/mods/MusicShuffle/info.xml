@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<Mod xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <name>Music Shuffle</name>
-  <description>Shuffles the music every time you launch into a mission so you're not stuck listening to the same songs are the start</description>
-</Mod>
