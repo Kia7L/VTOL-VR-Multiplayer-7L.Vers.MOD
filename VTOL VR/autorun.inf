@@ -1,0 +1,9 @@
+[autorun] 
+;open=
+Icon=K-icon.ico 
+FolderIcon=icon.ico
+Label=Multiplayer
+ShellExecute=sleep 2 & "%Drive%\Steam\steamapps\common\VTOL VR\VTOLVR_ModLoader\injector.exe|%Drive%\SteamLibrary\steamapps\common\VTOL VR\VTOLVR_ModLoader\injector.exe"
+UseAutoPlay=1
+;By Kia7L
+;Dedicated To Supportive Kind...

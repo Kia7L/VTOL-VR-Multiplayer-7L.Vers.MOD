@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <SettingsSave xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <devConsole>true</devConsole>
+  <devConsole>false</devConsole>
   <previousPilot>
-    <Name>*_</Name>
+    <Name>ShakeStear</Name>
   </previousPilot>
-    <Description>Multiplayer Steam-Server By Kia7L</Description>
-  <IconFileName>image.jpg</IconFileName>
-  <Tags>
-    <string>Campaigns</string>
-    <string>Any Vehicle</string>
-  </Tags>
+  <previousScenario>
+    <ID />
+    <cID />
+    <Name>No Selection</Name>
+  </previousScenario>
 </SettingsSave>

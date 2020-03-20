@@ -1,0 +1,22 @@
+[18/3/2020 11:44:23] Updater has been launched
+Path = E:\SteamLibrary\steamapps\common\VTOL VR\VTOLVR_ModLoader
+vtolFolder = E:\SteamLibrary\steamapps\common\VTOL VR/
+[18/3/2020 11:44:24] progressText = Fetching Update Data
+[18/3/2020 11:44:25] UpdateData Progress = 87
+[18/3/2020 11:44:25] UpdateData Progress = 100
+[18/3/2020 11:44:25] UpdateData Progress = 100
+[18/3/2020 11:44:25] Done Downloading Update Data
+[18/3/2020 11:44:25] Download Complete
+[18/3/2020 11:44:25] Updating Files
+[18/3/2020 11:44:25] progressText = Updating Files
+[18/3/2020 11:44:25] modloader was already upto date
+[18/3/2020 11:44:25] WpfAnimatedGif was already upto date
+[18/3/2020 11:44:25] VTOLVR-ModLoader was already upto date
+[18/3/2020 11:44:25] SharpMonoInjector was already upto date
+[18/3/2020 11:44:25] ModLoader was already upto date
+[18/3/2020 11:44:25] injector was already upto date
+[18/3/2020 11:44:26] discord-rpc was already upto date
+[18/3/2020 11:44:26] 0Harmony was already upto date
+[18/3/2020 11:44:26] mscorlib was already upto date
+[18/3/2020 11:44:26] progressText = Finished Downloading Update
+[18/3/2020 11:44:26] Finished Downloading Update
